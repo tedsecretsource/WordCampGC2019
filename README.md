@@ -93,4 +93,5 @@ moment of inspiration.
     you to plan your program in terms of features, and features in terms 
     of tasks, and eventually, when the program is released, you can log
     bugs against features and tasks (a way to improve the story based on
-    user feedback).
+    user feedback). And keep in mind that feature descriptions are only
+    complete if they [include tests](https://www.smashingmagazine.com/2017/12/automated-testing-wordpress-plugins-phpunit/) (so we can verify when they are "done")
