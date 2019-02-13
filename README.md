@@ -32,7 +32,7 @@ Everything in this guide is aimed at helping you create 12 factor web apps in Wo
 
 * _broken_: `echo` / `print_r()` / `var_dump()`
 * **tuned up**: `WP_DEBUG_LOG` and `trigger_error()`
-* **_turbocharged_**: [Debug Bar plugin](https://wordpress.org/plugins/debug-bar/) with [Console](), [Cron](https://wordpress.org/plugins/debug-bar-cron/) (and a few others)
+* **_turbocharged_**: [Debug Bar plugin](https://wordpress.org/plugins/debug-bar/) with [Console](https://wordpress.org/plugins/debug-bar-console/), [Cron](https://wordpress.org/plugins/debug-bar-cron/) (and a few others)
 
 ## Authoring Code
 
