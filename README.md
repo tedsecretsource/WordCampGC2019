@@ -14,7 +14,7 @@ Everything in this guide is aimed at helping you create 12 factor web apps in Wo
 
 * _broken_: configure my Mac (Oh!), but there is [WordPress Valet](https://aaemnnost.tv/wp-cli-commands/valet/)…
 * **tuned up**: [XAMPP](https://www.apachefriends.org/)
-* **_turbocharged_**: [Homestead](https://laravel.com/docs/5.7/homestead) 
+* **_turbocharged_**: [Homestead](https://laravel.com/docs/5.7/homestead), [Local by flywheel](https://local.getflywheel.com/)  
   or, soon, [WPLib Box](https://github.com/wplib/wplib-box) or some 
   sort of [Docker solution…](https://ghost.kontena.io/running-your-wordpress-site-in-containers/)
 
